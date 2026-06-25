@@ -1,0 +1,14 @@
+merge-two-sorted-lists.md
+  h_63369a53d62451 1-91
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "4be6c42c4368bbca602a162be083abb8c7262cbe",
+  "prompts": {},
+  "humans": {
+    "h_63369a53d62451": {
+      "author": "Diogo Geraldo <diogojunqueirageraldo@gmail.com>"
+    }
+  }
+}
